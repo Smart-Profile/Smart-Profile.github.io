@@ -3,14 +3,23 @@ project:
   output-dir: _site
 
 website:
-  title: "Smart-Profile"
+  title: "SMATER.ME"
+  site-url: "https://www.smater.me"
   search: 
     location: navbar
     type: overlay
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
+      
+      - text: "Profiles"
+        icon: atom
+        menu:
+          - text: "Marothi Peter LETSOALO"
+            href: static/marothi-letsoalo/index.html
+        
+    right:
       - about.qmd
 
         
@@ -38,6 +47,10 @@ format:
     embed-resources: true
     self-contained: true
 css: styles.css
+
+# Add this section to ensure your files are copied
+resources:
+  - static/
 
 
 

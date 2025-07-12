@@ -1,0 +1,7 @@
+# My Embedded Content
+
+This page displays content from an external HTML file.
+
+```{=html}
+<iframe src="static/marothi-letsoalo/index.html" width="100%" height="600px" style="border:none;"></iframe>
+```

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Smart-Profile"
@@ -9,11 +10,31 @@ website:
         text: Home
       - about.qmd
 
+        
+  #Footer-----------------------------------------------------------------------       
+  page-footer:
+    left: |
+      | © SMART.ME 2025
+    center: "SMART PROFILES"
+    right: "Built with [Quarto](https://quarto.org/)"
+#Format-------------------------------------------------------------------------     
 format:
-  html:
-    theme: cosmo
-    css: styles.css
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 1000px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    code-fold: true
+    theme:
+      light: flatly
+      dark: darkly
+    page-layout: full
+    fig-dpi: 300
     toc: true
+    embed-resources: true
+    self-contained: true
+css: styles.css
 
 
 

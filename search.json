@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "mapel.html",
+    "href": "mapel.html",
+    "title": "My Embedded Content",
+    "section": "",
+    "text": "My Embedded Content\nThis page displays content from an external HTML file."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",

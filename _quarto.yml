@@ -12,15 +12,19 @@ website:
     left:
       - href: index.qmd
         text: "Home"
+      - href: profiles.qmd
+        text: Profiles
       
-      - text: "Profiles"
-        icon: atom
-        menu:
-          - text: "Marothi Peter LETSOALO"
-            href: static/marothi-letsoalo/index.html
+      # - text: "Profiles"
+      #   icon: atom
+      #   menu:
+      #     - text: "Marothi Peter LETSOALO"
+      #       href: static/marothi-letsoalo/index.html
         
     right:
       - about.qmd
+      - href: register.qmd
+        text: Create Profile
 
         
   #Footer-----------------------------------------------------------------------       
@@ -46,6 +50,9 @@ format:
     toc: true
     embed-resources: true
     self-contained: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 css: styles.css
 
 # Add this section to ensure your files are copied

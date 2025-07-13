@@ -1,1 +1,63 @@
-/* css styles */
+/* General Body Styles */
+body {
+  text-align: center;
+}
+
+/* Hero Section Styles */
+#hero-section {
+  padding: 80px 20px;
+  background-color: #f8f9fa; /* Light gray background */
+}
+.quarto-dark #hero-section {
+  background-color: #2c3e50; /* Darker background for dark mode */
+}
+#hero-section h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+#hero-section p {
+  font-size: 1.25rem;
+  max-width: 700px;
+  margin: 20px auto 30px auto;
+}
+
+/* Generic Section Styles */
+.section {
+  padding: 60px 20px;
+}
+.section-light-bg {
+  background-color: #f8f9fa;
+}
+.quarto-dark .section-light-bg {
+  background-color: #2c3e50;
+}
+.recruiter-section {
+  background-color: #e9ecef;
+}
+.quarto-dark .recruiter-section {
+  background-color: #34495e;
+}
+
+/* Button Styles */
+.cta-button {
+  background-color: #0d6efd;
+  color: white !important; /* Use !important to override default link styles */
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  display: inline-block; /* Make the link behave like a block for padding */
+}
+.cta-button:hover {
+  background-color: #0a58ca;
+  text-decoration: none;
+}
+.secondary-cta {
+  background-color: #6c757d;
+}
+.secondary-cta:hover {
+  background-color: #5a6268;
+}

@@ -1,0 +1,11 @@
+---
+title: "Professional Profiles"
+subtitle: "Discover the incredible talent building their careers on SMATER.me."
+listing:
+  contents: profiles   # This tells Quarto to look in the 'profiles' folder
+  sort: "date desc"     # Sort by most recent date first
+  type: grid            # Display as a grid of cards
+  image-height: 200px
+  fields: [image, date, title, author, description] # Info to show on each card
+  feed: true            # Creates an RSS feed for new profiles
+---

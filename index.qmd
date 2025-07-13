@@ -1,5 +1,114 @@
 ---
-title: "Smart-Profile"
+title: "SMATER.me"
+subtitle: "Your Career Deserves a Smarter Showcase."
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: false
+    page-layout: full
+    css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 ---
 
+::: {#hero-section}
+# Your Career Deserves a Smarter Showcase.
 
+Stop sending static CVs that get lost in the crowd. With SMATER.me, you can build a dynamic, interactive profile that brings your skills to life and connects you with leading opportunities right here in South Africa.
+
+[Create Your Free Profile Today](register.qmd){.cta-button}
+:::
+
+
+::: {.section}
+## Why SMATER.me?
+
+::: {.grid}
+  
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-file-lines"></i> More Than a Resume
+A traditional CV only tells part of your story. A SMATER profile showcases your real-world value with project galleries, skill endorsements, and portfolio integration. Show, don't just tell.
+:::
+  
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-magnifying-glass-chart"></i> Get Discovered
+Our smart-matching algorithm helps top recruiters and innovative South African companies find *you*. Stop applying for jobs and let opportunities find you based on your unique expertise.
+:::
+  
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-wand-magic-sparkles"></i> Effortlessly Professional
+You don't need to be a designer to look brilliant. Our clean, intuitive tools help you build a stunning, professional profile in minutes, so you can focus on what you do best.
+:::
+  
+:::
+:::
+
+
+::: {.section .section-light-bg}
+## Get Started in 3 Simple Steps
+
+::: {.grid .text-start}
+
+::: {.g-col-12 .g-col-md-4}
+#### 1. Create Your Profile
+Sign up for free and build your base profile in minutes. Add your experience, education, and core skills.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+#### 2. Showcase Your Work
+Bring your profile to life. Add links to projects, upload portfolio items, and gather endorsements for your top skills.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+#### 3. Activate Discovery
+Set your profile to 'Discoverable' and let our platform connect you with recruiters and companies looking for talent just like you.
+:::
+  
+:::
+:::
+
+
+::: {.section}
+## Join a New Wave of Professionals
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+"SMATER.me allowed me to showcase my web development portfolio in a way LinkedIn never could. I received two interview requests within a week of my profile going live."
+
+**— Jabu N., Full-Stack Developer, Johannesburg**
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+"As a recruiter, finding hidden gems is my biggest challenge. SMATER's talent pool is exceptional. I can see a candidate's real-world work, not just a list of bullet points."
+
+**— Aisha P., Talent Acquisition Manager, Cape Town**
+:::
+:::
+
+:::
+:::
+
+
+::: {.section .recruiter-section}
+## Hiring Top Talent?
+
+Tired of sifting through endless, identical CVs? SMATER.me gives you access to a curated pool of motivated professionals. Our powerful search tools help you find the skills you need and see the work that proves it.
+
+[Find Talent Now](#){.cta-button .secondary-cta}
+:::
+
+
+::: {.section}
+## Ready to Build a Smarter Career Profile?
+
+Your skills are worth more than a two-page document. Take control of your professional story today.
+
+[Create Your Free Profile Today](register.qmd){.cta-button}
+:::

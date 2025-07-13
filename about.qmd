@@ -1,9 +1,80 @@
 ---
-title: "About"
+title: "About SMATER.me"
+subtitle: "We're on a mission to reshape the professional landscape in South Africa."
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: false
+    page-layout: full
+    css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 ---
 
-About this site
+::: {#hero-section}
+# Our Mission
 
-```{r}
-1 + 1
-```
+Our goal is simple: to empower South African professionals by providing a platform where their skills, projects, and true capabilities can outshine a static CV. We believe that talent is everywhere, but opportunity is not. SMATER.me was built to bridge that gap.
+:::
+
+::: {.section}
+## Our Story
+
+SMATER.me was born from a simple observation by our founder, Letsoalo Marothi Peter. While working from his home base in eManzimtoti, he saw countless talented friends and colleagues struggle to get noticed by top companies. Their paper CVs failed to capture the richness of their skills and the quality of their work. The traditional hiring process felt outdated—a numbers game where true talent was often overlooked.
+
+He envisioned a smarter way. A platform where a developer could showcase a brilliant coding project, a designer could display a stunning portfolio, and a marketer could present the data from a successful campaign. A place where merit and proven skill were the primary currency.
+
+From this vision, SMATER.me was created—not just as a tool, but as a community dedicated to helping South African professionals build the careers they truly deserve.
+
+:::
+
+::: {.section .section-light-bg}
+## Our Values
+
+::: {.grid .text-start}
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-eye"></i> Transparency
+We believe in a clear and open process. Professionals should know their worth and companies should see verified skills. No hidden metrics, no confusing algorithms.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-lightbulb"></i> Innovation
+The world of work is changing, and so should the tools we use. We are constantly innovating to provide the most effective and modern platform for career growth.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### <i class="fa-solid fa-handshake-angle"></i> Empowerment
+Our platform is built to put the power back into the hands of the professional. You control your narrative, you showcase your best work, and you attract the opportunities that are right for you.
+:::
+
+:::
+:::
+
+::: {.section}
+## Meet the Founder
+
+::: {.grid .text-start}
+
+::: {.g-col-12 .g-col-md-3 .text-center}
+![A professional headshot of Letsoalo Marothi Peter](https://placehold.co/400x400/0d6efd/ffffff?text=LMP){style="border-radius: 50%; width: 200px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Letsoalo Marothi Peter
+Letsoalo is a passionate developer and entrepreneur with a deep commitment to fostering talent within South Africa. With a background in Statistics, Data Science and Programming, he has experienced the challenges of the hiring landscape firsthand. He built SMATER.me to be the solution he wished he had, creating a platform that values demonstrable skill over keywords on a page.
+:::
+
+:::
+:::
+
+::: {.section .recruiter-section}
+## Join Our Community
+
+Whether you are a professional ready to showcase your talent or a recruiter looking for your next great hire, you are a vital part of our mission.
+
+[Create Your Free Profile Today](register.qmd){.cta-button}
+:::

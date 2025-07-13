@@ -1,0 +1,19 @@
+---
+title: "Asavela Olona Kama"
+author: "Full-Stack Developer"
+date: "2025-07-12"
+description: "Experienced developer specializing in creating responsive, data-driven web applications."
+image: https://placehold.co/800x600/6c757d/ffffff?text=AOK
+categories: [Technology, Web Development, JavaScript]
+---
+
+## About Me
+I am a full-stack developer based in Johannesburg with over 5 years of experience. I thrive on solving complex problems and building applications that are both functional and beautiful.
+
+### Key Skills
+- JavaScript (React, Node.js)
+- Python (Django)
+- Database Management (PostgreSQL)
+
+### Projects
+- **E-commerce Platform:** Built a full-featured online store for a local retailer.

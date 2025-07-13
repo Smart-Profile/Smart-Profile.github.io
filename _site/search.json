@@ -1,16 +1,121 @@
 [
   {
-    "objectID": "mapel.html",
-    "href": "mapel.html",
-    "title": "My Embedded Content",
+    "objectID": "profiles/olona-kama.html",
+    "href": "profiles/olona-kama.html",
+    "title": "Asavela Olona Kama",
     "section": "",
-    "text": "My Embedded Content\nThis page displays content from an external HTML file."
+    "text": "I am a full-stack developer based in Johannesburg with over 5 years of experience. I thrive on solving complex problems and building applications that are both functional and beautiful.\n\n\n\nJavaScript (React, Node.js)\nPython (Django)\nDatabase Management (PostgreSQL)\n\n\n\n\n\nE-commerce Platform: Built a full-featured online store for a local retailer."
+  },
+  {
+    "objectID": "profiles/olona-kama.html#about-me",
+    "href": "profiles/olona-kama.html#about-me",
+    "title": "Asavela Olona Kama",
+    "section": "",
+    "text": "I am a full-stack developer based in Johannesburg with over 5 years of experience. I thrive on solving complex problems and building applications that are both functional and beautiful.\n\n\n\nJavaScript (React, Node.js)\nPython (Django)\nDatabase Management (PostgreSQL)\n\n\n\n\n\nE-commerce Platform: Built a full-featured online store for a local retailer."
+  },
+  {
+    "objectID": "profiles.html",
+    "href": "profiles.html",
+    "title": "Professional Profiles",
+    "section": "",
+    "text": "Marothi Peter Letsoalo\n\n\nPassionate developer and entrepreneur with a deep commitment to fostering talent within South Africa.\n\n\n\nFounder\n\n\nJul 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsavela Olona Kama\n\n\nExperienced developer specializing in creating responsive, data-driven web applications.\n\n\n\nFull-Stack Developer\n\n\nJul 12, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About SMATER.me",
     "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "Our goal is simple: to empower South African professionals by providing a platform where their skills, projects, and true capabilities can outshine a static CV. We believe that talent is everywhere, but opportunity is not. SMATER.me was built to bridge that gap."
+  },
+  {
+    "objectID": "about.html#our-story",
+    "href": "about.html#our-story",
+    "title": "About SMATER.me",
+    "section": "Our Story",
+    "text": "Our Story\nSMATER.me was born from a simple observation by our founder, Letsoalo Marothi Peter. While working from his home base in eManzimtoti, he saw countless talented friends and colleagues struggle to get noticed by top companies. Their paper CVs failed to capture the richness of their skills and the quality of their work. The traditional hiring process felt outdated—a numbers game where true talent was often overlooked.\nHe envisioned a smarter way. A platform where a developer could showcase a brilliant coding project, a designer could display a stunning portfolio, and a marketer could present the data from a successful campaign. A place where merit and proven skill were the primary currency.\nFrom this vision, SMATER.me was created—not just as a tool, but as a community dedicated to helping South African professionals build the careers they truly deserve."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "About SMATER.me",
+    "section": "Our Values",
+    "text": "Our Values\n\n\n Transparency\nWe believe in a clear and open process. Professionals should know their worth and companies should see verified skills. No hidden metrics, no confusing algorithms.\n\n\n Innovation\nThe world of work is changing, and so should the tools we use. We are constantly innovating to provide the most effective and modern platform for career growth.\n\n\n Empowerment\nOur platform is built to put the power back into the hands of the professional. You control your narrative, you showcase your best work, and you attract the opportunities that are right for you."
+  },
+  {
+    "objectID": "about.html#meet-the-founder",
+    "href": "about.html#meet-the-founder",
+    "title": "About SMATER.me",
+    "section": "Meet the Founder",
+    "text": "Meet the Founder\n\n\n\n\n\nA professional headshot of Letsoalo Marothi Peter\n\n\n\n\nLetsoalo Marothi Peter\nLetsoalo is a passionate developer and entrepreneur with a deep commitment to fostering talent within South Africa. With a background in Statistics, Data Science and Programming, he has experienced the challenges of the hiring landscape firsthand. He built SMATER.me to be the solution he wished he had, creating a platform that values demonstrable skill over keywords on a page."
+  },
+  {
+    "objectID": "about.html#join-our-community",
+    "href": "about.html#join-our-community",
+    "title": "About SMATER.me",
+    "section": "Join Our Community",
+    "text": "Join Our Community\nWhether you are a professional ready to showcase your talent or a recruiter looking for your next great hire, you are a vital part of our mission.\nCreate Your Free Profile Today"
+  },
+  {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "Create Your SMATER Profile",
+    "section": "",
+    "text": "Creating a profile is free and only takes a minute. You’re one step away from showcasing your skills in a smarter way.\n\n\n\n\n\n\n  \n    Full Name\n    \n  \n  \n    Email Address\n    \n  \n  \n    Password\n    \n  \n  Create My Account"
+  },
+  {
+    "objectID": "register.html#start-your-journey",
+    "href": "register.html#start-your-journey",
+    "title": "Create Your SMATER Profile",
+    "section": "",
+    "text": "Creating a profile is free and only takes a minute. You’re one step away from showcasing your skills in a smarter way.\n\n\n\n\n\n\n  \n    Full Name\n    \n  \n  \n    Email Address\n    \n  \n  \n    Password\n    \n  \n  Create My Account"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SMATER.me",
+    "section": "",
+    "text": "Stop sending static CVs that get lost in the crowd. With SMATER.me, you can build a dynamic, interactive profile that brings your skills to life and connects you with leading opportunities right here in South Africa.\nCreate Your Free Profile Today"
+  },
+  {
+    "objectID": "index.html#why-smater.me",
+    "href": "index.html#why-smater.me",
+    "title": "SMATER.me",
+    "section": "Why SMATER.me?",
+    "text": "Why SMATER.me?\n\n\n More Than a Resume\nA traditional CV only tells part of your story. A SMATER profile showcases your real-world value with project galleries, skill endorsements, and portfolio integration. Show, don’t just tell.\n\n\n Get Discovered\nOur smart-matching algorithm helps top recruiters and innovative South African companies find you. Stop applying for jobs and let opportunities find you based on your unique expertise.\n\n\n Effortlessly Professional\nYou don’t need to be a designer to look brilliant. Our clean, intuitive tools help you build a stunning, professional profile in minutes, so you can focus on what you do best."
+  },
+  {
+    "objectID": "index.html#get-started-in-3-simple-steps",
+    "href": "index.html#get-started-in-3-simple-steps",
+    "title": "SMATER.me",
+    "section": "Get Started in 3 Simple Steps",
+    "text": "Get Started in 3 Simple Steps\n\n\n1. Create Your Profile\nSign up for free and build your base profile in minutes. Add your experience, education, and core skills.\n\n\n2. Showcase Your Work\nBring your profile to life. Add links to projects, upload portfolio items, and gather endorsements for your top skills.\n\n\n3. Activate Discovery\nSet your profile to ‘Discoverable’ and let our platform connect you with recruiters and companies looking for talent just like you."
+  },
+  {
+    "objectID": "index.html#join-a-new-wave-of-professionals",
+    "href": "index.html#join-a-new-wave-of-professionals",
+    "title": "SMATER.me",
+    "section": "Join a New Wave of Professionals",
+    "text": "Join a New Wave of Professionals\n\n\n\n\n\n\n\n\n“SMATER.me allowed me to showcase my web development portfolio in a way LinkedIn never could. I received two interview requests within a week of my profile going live.”\n— Jabu N., Full-Stack Developer, Johannesburg\n\n\n\n\n\n\n\n\n\n\n\n“As a recruiter, finding hidden gems is my biggest challenge. SMATER’s talent pool is exceptional. I can see a candidate’s real-world work, not just a list of bullet points.”\n— Aisha P., Talent Acquisition Manager, Cape Town"
+  },
+  {
+    "objectID": "index.html#hiring-top-talent",
+    "href": "index.html#hiring-top-talent",
+    "title": "SMATER.me",
+    "section": "Hiring Top Talent?",
+    "text": "Hiring Top Talent?\nTired of sifting through endless, identical CVs? SMATER.me gives you access to a curated pool of motivated professionals. Our powerful search tools help you find the skills you need and see the work that proves it.\nFind Talent Now"
+  },
+  {
+    "objectID": "index.html#ready-to-build-a-smarter-career-profile",
+    "href": "index.html#ready-to-build-a-smarter-career-profile",
+    "title": "SMATER.me",
+    "section": "Ready to Build a Smarter Career Profile?",
+    "text": "Ready to Build a Smarter Career Profile?\nYour skills are worth more than a two-page document. Take control of your professional story today.\nCreate Your Free Profile Today"
+  },
+  {
+    "objectID": "profiles/marothi-letsoalo.html",
+    "href": "profiles/marothi-letsoalo.html",
+    "title": "Marothi Peter Letsoalo",
+    "section": "",
+    "text": "## About Me As the founder of SMATER.me, I am driven by a passion for technology and a mission to empower South African professionals. I believe that true skill and demonstrable work should be the key to unlocking career opportunities.\n\nKey Skills\n\nQuarto & Web Development\nProject Management\nUI/UX Design\n\n\n\nContact\n\nEmail: letsoalo.mp@email.com\nLinkedIn: linkedin.com/in/letsoalomp"
   }
 ]

@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.smater.me/mapel.html</loc>
-    <lastmod>2025-07-12T20:42:32.952Z</lastmod>
+    <loc>https://www.smater.me/profiles/marothi-letsoalo.html</loc>
+    <lastmod>2025-07-13T12:00:25.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.smater.me/profiles.html</loc>
+    <lastmod>2025-07-13T12:00:25.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.smater.me/register.html</loc>
+    <lastmod>2025-07-13T12:00:25.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.smater.me/profile-template.html</loc>
+    <lastmod>2025-07-13T12:00:25.531Z</lastmod>
   </url>
   <url>
     <loc>https://www.smater.me/about.html</loc>
-    <lastmod>2025-07-12T20:42:32.952Z</lastmod>
+    <lastmod>2025-07-13T12:00:25.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.smater.me/index.html</loc>
+    <lastmod>2025-07-13T12:00:25.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.smater.me/profiles/olona-kama.html</loc>
+    <lastmod>2025-07-13T12:00:25.798Z</lastmod>
   </url>
 </urlset>
